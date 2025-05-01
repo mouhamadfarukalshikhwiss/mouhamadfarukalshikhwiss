@@ -49,10 +49,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mouhamadfarukalshikhwiss/mouhamadfarukalshikhwiss/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdvaG1vNjA1cjVwOHV2bnhyZjRpNWx1MWVvbTJ5amphejF4YTd5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
@@ -65,5 +61,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mouhamadfarukalshikhwiss/mouhamadfarukalshikhwiss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mouhamadfarukalshikhwiss/mouhamadfarukalshikhwiss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mouhamadfarukalshikhwiss/mouhamadfarukalshikhwiss/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
