@@ -47,7 +47,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
+###
 
+<img src="https://raw.githubusercontent.com/mouhamadfarukalshikhwiss/mouhamadfarukalshikhwiss/output/snake.svg" alt="Snake animation" />
+
+###
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdvaG1vNjA1cjVwOHV2bnhyZjRpNWx1MWVvbTJ5amphejF4YTd5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
